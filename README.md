@@ -1,4 +1,4 @@
-# SubBot - 2.0 Chatbot for the commuters of New York Subway Upgraded
+# SubBot - 2.0 Chatbot for the commuters of New York Subway Upgraded.
 
 Abstract:- SubBot - 2.0 is chatbot, acting as a reporting system for traffic control and management for services of New York Subway
 Transit System. The services include status, entry, exit points, the division of a subway and also train feeds at a subway. The
