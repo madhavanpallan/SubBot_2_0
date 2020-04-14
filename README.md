@@ -14,3 +14,8 @@ link to the Demo:- https://drive.google.com/file/d/1gr5quW6ztoXCKkPFA6-RzqqILfNZ
 
 In Proceedings of Competition Track of Workshop W-19 Reasoning and Learning for Human-Machine Dialogues (DEEP-DIAL20) of the Thirtieth Conference on Association for the Advancement of Artificial Intelligence at AAAI Conference, 2020
 Feel free to reach out for feedback, queries and suggestions to authors (Email:madhpallan@gmail.com)
+
+Recipient of travel grant for the workshop from AIJ (Artificial Intelligence Journal).
+Special thanks to the committee members of DEEPDIAL'20, AAAI2020 (Dr. Srivastava and Team)
+
+Acknowledgement:- Dr. Biplav Srivastava for continuous encouragement.
